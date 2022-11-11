@@ -1,2 +1,2 @@
 # Weather-app
-This application is created using OpenWeather, NodeJS and EJS template.
+This application is created using OpenWeather API, NodeJS and EJS template.
